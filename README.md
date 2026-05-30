@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-sensation/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sweetest Sensation](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-sensation/) |
+| **Get License** | [Get License For Sweetest Sensation](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-sensation/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The sweetest sensation is pulling me close
+> Like a slow-burning fire that nobody knows
+> I am falling so deep in the warmth of your stare
+> With the weight of the world just melting in air
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
